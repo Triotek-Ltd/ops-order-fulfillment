@@ -1,0 +1,45 @@
+[
+  {
+    "module_slug": "ops14_1"
+  },
+  {
+    "module_code": "ops14_1",
+    "module_label": "OPS 14.1 - Order Validation - Confirms order details; consists of stock and payment verification.",
+    "module_title": "Order Validation - Confirms order details; consists of stock and payment verification.",
+    "module_slug": "order_validation_confirms_order_details_consists_of_stock_and_payment_verification",
+    "app_code": "ops14",
+    "app_label": "OPS 14 - Order Fulfillment",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops14_2",
+    "module_label": "OPS 14.2 - Picking & Packing - Prepares goods; consists of item scan logs.",
+    "module_title": "Picking & Packing - Prepares goods; consists of item scan logs.",
+    "module_slug": "picking_and_packing_prepares_goods_consists_of_item_scan_logs",
+    "app_code": "ops14",
+    "app_label": "OPS 14 - Order Fulfillment",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops14_4",
+    "module_label": "OPS 14.4 - Proof of Delivery Capture - Confirms delivery; consists of signature record.",
+    "module_title": "Proof of Delivery Capture - Confirms delivery; consists of signature record.",
+    "module_slug": "proof_of_delivery_capture_confirms_delivery_consists_of_signature_record",
+    "app_code": "ops14",
+    "app_label": "OPS 14 - Order Fulfillment",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops14_3",
+    "module_label": "OPS 14.3 - Shipment Scheduling - Books transport; consists of carrier allocation record.",
+    "module_title": "Shipment Scheduling - Books transport; consists of carrier allocation record.",
+    "module_slug": "shipment_scheduling_books_transport_consists_of_carrier_allocation_record",
+    "app_code": "ops14",
+    "app_label": "OPS 14 - Order Fulfillment",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
